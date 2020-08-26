@@ -1,4 +1,4 @@
-### Hi, I'm Daniel Terra 👋
+## Hi, I'm Daniel Terra 👋
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SdanielST?label=Follow%20me&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSdanielST&screen_name=SdanielST)
@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Learn front-end Development
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
