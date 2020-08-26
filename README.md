@@ -20,9 +20,10 @@
 - ⚡ Fun fact: 💬
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-arretdaniel.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/jacu234)
+[<img src="https://novatorem.arretdaniel.vercel.app/api/spotify-playing" alt="arretdaniel Spotify Playing" width="350" />](https://open.spotify.com/user/jacu234)
 
 [![Spotify](https://arretdaniel.vercel.app/api/spotify)](https://open.spotify.com/user/jacu234)
+
 
 
 
