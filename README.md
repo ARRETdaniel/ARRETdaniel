@@ -1,8 +1,14 @@
-## Hi, I'm Daniel Terra 👋
+## Hi 👋
 
 
+📫 How to reach me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSdanielST&screen_name=SdanielST)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/arretdaniel)
+
+<!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/SdanielST?label=Follow%20me&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSdanielST&screen_name=SdanielST)
-
+-->
 
 ## I'm a CC Student.
 
