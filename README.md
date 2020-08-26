@@ -1,9 +1,7 @@
 ### Hi, I'm Daniel Terra 👋
 
 
-![twitter](https://img.shields.io/twitter/follow/SdanielST?label=Follow%20me&style=social)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/SdanielST?label=Follow%20me&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SdanielST?label=Follow%20me&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSdanielST&screen_name=SdanielST)
 
 
 ## I'm a CC Student.
