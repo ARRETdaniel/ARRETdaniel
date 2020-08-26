@@ -1,7 +1,7 @@
 ### Hi, I'm Daniel Terra 👋
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/SdanielST?label=Follow%20me&style=social)
+![twitter](https://img.shields.io/twitter/follow/SdanielST?label=Follow%20me&style=social)
 
 ## I'm a CC Student.
 
@@ -108,7 +108,7 @@
 [twitter]: https://twitter.com/SdanielST
 [youtube]: https://www.youtube.com/c/MixiricaGames
 [instagram]: https://www.instagram.com/arret_daniel/
-[linkedin]: nkedin.com/in/arretdaniel/
+[linkedin]: linkedin.com/in/arretdaniel/
 [webdevplaylist]: -t
 [jsplaylist]: -
 [cssplaylist]: -
