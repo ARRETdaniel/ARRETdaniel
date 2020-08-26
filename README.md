@@ -59,4 +59,4 @@
 [twitter]: https://twitter.com/SdanielST
 [youtube]: https://www.youtube.com/c/MixiricaGames
 [instagram]: https://www.instagram.com/arret_daniel
-[linkedin]: lhttps://linkedin.com/in/arretdaniel
+[linkedin]: https://linkedin.com/in/arretdaniel
