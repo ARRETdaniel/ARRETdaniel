@@ -25,7 +25,9 @@
 [![Spotify](https://novatorem-mauve-sigma.vercel.app/)](https://open.spotify.com/user/jacu234)
 
 
-[![Spotify](https://arretdaniel.vercel.app/api/spotify)](https://open.spotify.com/user/jacu234)
+[![Spotify](https://novatorem-mauve-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/jacu234)
+
+[![Spotify](https://novatorem-git-master.arretdaniel.vercel.app/api/spotify)](https://open.spotify.com/user/jacu234)
 
 
 
