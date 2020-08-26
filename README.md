@@ -2,7 +2,7 @@
 
 <h1 >Olá! ✌️🌻</h1>
 
-<h3 >- 📱 How to reach me:</h3>
+<h3 >📱 How to reach me:</h3>
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSdanielST&screen_name=SdanielST)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/arretdaniel)
