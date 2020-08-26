@@ -20,7 +20,13 @@
 - ⚡ Fun fact: 💬
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/jacu234)
+[<img src="https://now-playing-arretdaniel.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/jacu234)
+
+[![Spotify](https://arretdaniel.vercel.app/api/spotify)](https://open.spotify.com/user/jacu234)
+
+
+
+
 
 ### Connect with me:
 
@@ -92,18 +98,20 @@
 
 ---
 -->
+<!--
 <details>
   <summary>:zap: Recent Github Activity</summary>
 
-<!--START_SECTION:activity-->
+START_SECTION:activity
 1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
+END_SECTION:activity
 
 </details>
+-->
 
 <details>
   <summary>:zap: Github Stats</summary>
