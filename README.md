@@ -1,7 +1,7 @@
-## Hi 👋
+## Salve ✌️🌻
 
 
-- 📫 How to reach me:
+- 📱 How to reach me:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSdanielST&screen_name=SdanielST)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/arretdaniel)
@@ -15,26 +15,12 @@
 <!--
 - 🔭 I’m currently working on a [VS Code Course][website]!
 -->
-- 🤔 I’m currently learning 💬
-- 🥅 2020 Goals: Learn front-end Development 💬
-- ⚡ Fun fact: 💬
+- 📚 I’m currently learning 💬
+- 🎯 2020 Goals: Learn front-end Development 💬
+- ⭐ Fun fact: 💬
 
-### Spotify Playing 🎧
+### Spotify Playing 🎧🎵
 [<img src="https://novatorem-mauve-sigma.vercel.app/api/spotify" alt="arretdaniel Spotify Playing" width="350" />](https://open.spotify.com/user/jacu234)
-
-[![Spotify](https://novatorem-mauve-sigma.vercel.app/)](https://open.spotify.com/user/jacu234)
-
-
-[![Spotify](https://novatorem-mauve-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/jacu234)
-
-[![Spotify](https://novatorem-git-master.arretdaniel.vercel.app/api/spotify)](https://open.spotify.com/user/jacu234)
-
-
-
-
-
-
-
 
 ### Connect with me:
 
@@ -44,13 +30,10 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
 <br />
-
 
 <br />
 <br />
-
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -62,9 +45,5 @@
 [website]: https://www.instagram.com/arret_daniel
 [twitter]: https://twitter.com/SdanielST
 [youtube]: https://www.youtube.com/c/MixiricaGames
-[instagram]: https://www.instagram.com/arret_daniel/
-[linkedin]: linkedin.com/in/arretdaniel/
-[webdevplaylist]: -t
-[jsplaylist]: -
-[cssplaylist]: -
-[reactplaylist]: -
+[instagram]: https://www.instagram.com/arret_daniel
+[linkedin]: lhttps://linkedin.com/in/arretdaniel
