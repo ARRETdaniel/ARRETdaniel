@@ -1,7 +1,7 @@
 ## Hi 👋
 
 
-📫 How to reach me:
+- 📫 How to reach me:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSdanielST&screen_name=SdanielST)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/arretdaniel)
@@ -10,13 +10,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SdanielST?label=Follow%20me&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSdanielST&screen_name=SdanielST)
 -->
 
-## I'm a CC Student.
+## I'm a Cumputer Science Student.
 
+<!--
 - 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn front-end Development
-- ⚡ Fun fact: I love to draw and play guitar / drums
+-->
+- 🤔 I’m currently learning 💬
+- 🥅 2020 Goals: Learn front-end Development 💬
+- ⚡ Fun fact: 💬
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/jacu234)
