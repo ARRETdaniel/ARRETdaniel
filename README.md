@@ -31,16 +31,14 @@
 <details>
   <summary>:octocat: Overview Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=ARRETdaniel&show_icons=true&hide_border=true" />
+  <img alt="ARRETdaniel's Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=ARRETdaniel&show_icons=true&hide_border=true" />
 
 </details>
-
-<br />
 
 <details>
   <summary>:computer: My most used programming languages</summary>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arretdaniel&layout=compact&hide=html" alt="arretdaniel" /></p>
+  <img alt="ARRETdaniel's most used Programming lng " src="https://github-readme-stats.vercel.app/api/top-langs/?username=arretdaniel&layout=compact&hide=html" alt="arretdaniel" />
 
 </details>
 
