@@ -35,6 +35,8 @@
 
 </details>
 
+<br />
+
 <details>
   <summary>:computer: My most used programming languages</summary>
 
