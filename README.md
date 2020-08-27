@@ -2,26 +2,16 @@
 
 <h1 >Olá! ✌️🌻</h1>
 
+## I'm a Cumputer Science Student.
+
+- 📚 I am currently 💬
+- 🎯 2020 Goals: Learn front-end Development 💬
+- ⭐ Hobbys: Watch science channels on Youtube, play Video Games, listen to music, cooking, photography 💬
+
 <h3 >📱 How to reach me:</h3>
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSdanielST&screen_name=SdanielST)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/arretdaniel)
-
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/SdanielST?label=Follow%20me&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSdanielST&screen_name=SdanielST)
--->
-
-## I'm a Cumputer Science Student.
-
-<!--
-- 🔭 I’m currently working on a [VS Code Course][website]!
--->
-- 📚 I’m currently learning 💬
-- 🎯 2020 Goals: Learn front-end Development 💬
-- ⭐ Fun fact: 💬
-
-### Spotify Playing 🎧🎵
-[<img src="https://novatorem-mauve-sigma.vercel.app/api/spotify" alt="arretdaniel Spotify Playing" width="350" />](https://open.spotify.com/user/jacu234)
 
 ### Connect with me:
 
@@ -31,21 +21,24 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+### Spotify Playing 🎧🎵
+[<img src="https://novatorem-mauve-sigma.vercel.app/api/spotify" alt="arretdaniel Spotify Playing" width="350" />](https://open.spotify.com/user/jacu234)
+
 <br />
 <br />
 <br />
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:octocat: Overview Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=ARRETdaniel&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:computer: My most used programming languages</summary>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arretdaniel&layout=compact&hide=html" alt="arretdaniel" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arretdaniel&layout=compact&hide=html" alt="arretdaniel" /></p>
 
 </details>
 
