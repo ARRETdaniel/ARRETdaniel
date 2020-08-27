@@ -21,11 +21,11 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
 ### Spotify Playing 🎧🎵
 [<img src="https://novatorem-mauve-sigma.vercel.app/api/spotify" alt="arretdaniel Spotify Playing" width="350" />](https://open.spotify.com/user/jacu234)
 
-<br />
-<br />
 <br />
 
 <details>
@@ -42,7 +42,6 @@
 
 </details>
 
-<br />
 <br />
 <br />
 
