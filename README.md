@@ -2,7 +2,7 @@
 
 <h1 >Olá! ✌️🌻</h1>
 
-## I'm a Cumputer Science Student.
+## I'm a Computer Science Student.
 
 - 📚 I am currently 💬
 - 🎯 2020 Goals: Learn front-end Development 💬
