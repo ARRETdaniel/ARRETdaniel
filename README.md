@@ -51,7 +51,7 @@
 
 -->
 
-[website]: https://www.instagram.com/arret_daniel
+[website]: https://www.instagram.com/arretdaniel
 [twitter]: https://twitter.com/SdanielST
 [youtube]: https://www.youtube.com/c/MixiricaGames
 [instagram]: https://www.instagram.com/arretdaniel
