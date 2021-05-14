@@ -5,7 +5,7 @@
 ## I'm a Computer Science Student.
 
 - 📚 I am currently 💬
-- 🎯 2020 Goals: Learn front-end Development 💬
+- 🎯 2021 Goals: Learn German(A2), and improve my current knowledge in Machine Learning 💬
 - ⭐ Hobbys: Watch science channels on Youtube, play Video Games, listen to music, cooking, photography 💬
 
 <h3 >📱 How to reach me:</h3>
