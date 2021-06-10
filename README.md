@@ -6,7 +6,7 @@
 
 - 📚 I am currently 💬
 - 🎯 2021 Goals: Learn German(A2), and improve my current knowledge in Machine Learning 💬
-- ⭐ Hobbys: Watch science channels on Youtube, Games, listen to music, cooking, photography 💬
+- ⭐ Hobbys: Watch scientific channels on Youtube, Games, listen to music, cooking, photography 💬
 
 <h3 >📱 How to reach me:</h3>
 
