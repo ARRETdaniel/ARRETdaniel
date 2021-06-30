@@ -10,7 +10,7 @@
 
 <h3 >📱 How to reach me:</h3>
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSdanielST&screen_name=SdanielST)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FARRETdaniel&screen_name=SdanielST)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/arretdaniel)
 
 ### Connect with me:
@@ -52,7 +52,7 @@
 -->
 
 [website]: https://linktr.ee/ARRETdaniel
-[twitter]: https://twitter.com/SdanielST
+[twitter]: https://twitter.com/ARRETdaniel
 [youtube]: https://www.youtube.com/c/MixiricaGames
 [instagram]: https://www.instagram.com/arretdaniel
 [linkedin]: https://linkedin.com/in/arretdaniel
