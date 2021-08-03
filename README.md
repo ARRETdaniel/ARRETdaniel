@@ -2,9 +2,9 @@
 
 <h1 >Olá! ✌️🌻</h1>
 
-## I'm a Computer Science Student.
+## Computer Science Student...
 
-- 📚 I am currently 💬
+- 📚 Currently 💬
 - 🎯 2021 Goals: Learn German(A2), and improve my current knowledge in Machine Learning 💬
 - ⭐ Hobbys: Watch scientific channels on Youtube, Games, listen to music, cooking, photography 💬
 
