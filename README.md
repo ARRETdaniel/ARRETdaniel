@@ -28,19 +28,19 @@
 
 <br />
 
-<details open>
+<details>
   <summary>:octocat: Overview Stats</summary>
 
   <img alt="ARRETdaniel's Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=ARRETdaniel&show_icons=true&hide_border=true&theme=radical" />
 
-</details>
+</details open>
 
 <details>
   <summary>:computer: My most used programming languages</summary>
 
   <img alt="ARRETdaniel's most used Programming lng " src="https://github-readme-stats.vercel.app/api/top-langs/?username=arretdaniel&layout=compact&hide=html&theme=radical" alt="arretdaniel" />
 
-</details>
+</details open>
 
 <details>
   <summary>:fire: Github streak Stats</summary>
