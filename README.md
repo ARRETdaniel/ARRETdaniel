@@ -45,7 +45,7 @@
 </details>
   <summary>:computer: Github streak stats</summary>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arretdaniel&" alt="arretdaniel" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arretdaniel&" alt="arretdaniel" /></p>
 </details>
 
 <br />
