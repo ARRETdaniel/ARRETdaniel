@@ -13,15 +13,15 @@
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FARRETdaniel&screen_name=ARRETdaniel)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/arretdaniel)
 
-### Connect with me:
-
-[<img align="left" alt="web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/arretdaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arretdaniel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arretdaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arretdaniel" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/daniel-terra-gomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="daniel-terra-gomes" height="30" width="40" /></a>
+<a href="https://instagram.com/arretdaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arretdaniel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mixirica games" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mixirica games" height="30" width="40" /></a>
+<a href="https://discord.gg/ARRETdaniel#5820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ARRETdaniel#5820" height="30" width="40" /></a>
+</p>
 
 ### Spotify Playing 🎧🎵
 [<img src="https://novatorem-mauve-sigma.vercel.app/api/spotify" alt="arretdaniel Spotify Playing" width="350" />](https://open.spotify.com/user/jacu234)
