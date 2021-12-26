@@ -28,7 +28,7 @@
 
 <br />
 
-<details>
+<details open>
   <summary>:octocat: Overview Stats</summary>
 
   <img alt="ARRETdaniel's Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=ARRETdaniel&show_icons=true&hide_border=true&theme=radical" />
