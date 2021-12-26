@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arretdaniel" alt="arretdaniel" /> </p>
 
-<h1 >Olá! ✌️🌻</h1>
+<h1 >Olá, Hello, Hallo! ✌️🌻</h1>
 
 ## Computer Science Student...
 
