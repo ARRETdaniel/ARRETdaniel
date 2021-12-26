@@ -43,7 +43,7 @@
 </details>
 
 <details>
-  <summary>:fire: Github streak stats</summary>
+  <summary>:fire: Github streak Stats</summary>
 
   <img alt="ARRETdaniel's Github streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=arretdaniel&" alt="arretdaniel" />
   
