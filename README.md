@@ -23,10 +23,8 @@
 <a href="https://discord.gg/ARRETdaniel#5820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ARRETdaniel#5820" height="30" width="40" /></a>
 </p>
 
-<details open>
 ### Spotify Playing 🎧🎵
 [<img src="https://novatorem-mauve-sigma.vercel.app/api/spotify" alt="arretdaniel Spotify Playing" width="350" />](https://open.spotify.com/user/jacu234)
-</details>
 
 <br />
 
