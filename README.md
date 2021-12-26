@@ -51,12 +51,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:computer: My most used programming languages</summary>
-
-  <img alt="ARRETdaniel's most used Programming lng " src="https://github-readme-stats.vercel.app/api/top-langs/?username=arretdaniel&layout=compact&hide=html" alt="arretdaniel" />
-
-</details>
 
 <!--
 
