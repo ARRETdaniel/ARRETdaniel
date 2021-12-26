@@ -5,8 +5,8 @@
 ## Computer Science Student...
 
 - 📚 I’m currently learning **German, Machine Learning, SQL, Python...** 💬
-- 🎯 2021 Goals: Learn German(A2), and improve my current Machine Learning knowledge💬
-- ⭐ Hobbys: Watch scientific channels on Youtube, Games, listen to music, cooking, photography 💬
+- 🎯 2021 Goals: Learn German(A2), and improve my current Machine Learning knowledge... 💬
+- ⭐ Hobbys: Watch scientific channels on Youtube, Games, listen to music, cooking, photography... 💬
 
 <h3 >📱 How to reach me:</h3>
 
