@@ -38,7 +38,7 @@
 <details open>
   <summary>:computer: My most used programming languages</summary>
 
-  <img alt="ARRETdaniel's most used Programming lng " src="https://github-readme-stats.vercel.app/api/top-langs/?username=arretdaniel&layout=compact&hide=html&theme=radical&hide_border=true&&langs_count=10" alt="arretdaniel" />
+  <img alt="ARRETdaniel's most used Programming lng " src="https://github-readme-stats.vercel.app/api/top-langs/?username=arretdaniel&layout=demo&hide=html&theme=radical&hide_border=true&&langs_count=9" alt="arretdaniel" />
 
 </details>
 
