@@ -42,6 +42,8 @@
 
 </details>
 
+<codersrank-skills-chart username="arretdaniel"></codersrank-skills-chart>
+
 <br />
 <br />
 
