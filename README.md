@@ -33,16 +33,16 @@
 
   <img alt="ARRETdaniel's Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=ARRETdaniel&show_icons=true&hide_border=true&theme=radical" />
 
-</details open>
+</details>
 
-<details>
+<details open>
   <summary>:computer: My most used programming languages</summary>
 
   <img alt="ARRETdaniel's most used Programming lng " src="https://github-readme-stats.vercel.app/api/top-langs/?username=arretdaniel&layout=compact&hide=html&theme=radical" alt="arretdaniel" />
 
-</details open>
+</details>
 
-<details>
+<details open>
   <summary>:fire: Github streak Stats</summary>
 
   <img alt="ARRETdaniel's Github streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=arretdaniel&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD711F" alt="arretdaniel" />
