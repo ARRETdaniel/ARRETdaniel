@@ -7,8 +7,8 @@
 - 📚 I'm currently learning **German, Machine Learning, SQL, Python...** 💬
 - 🎯 2021 Goals: Learn German(A2), and improve my current Machine Learning knowledge... 💬
 - ⭐ Hobbys: Watch scientific channels on Youtube, Games, listen to music, cooking, photography... 💬
-- 📄 Know about my experiences [CV](https://profile.codersrank.io/user/arretdaniel/)
-<h3 >📱 How to reach me:</h3>
+- 📄 Know about my experiences: [CV](https://profile.codersrank.io/user/arretdaniel/).
+<h3 align="left">How to reach me:</h3>
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FARRETdaniel&screen_name=ARRETdaniel)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/arretdaniel)
