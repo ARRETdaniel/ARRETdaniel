@@ -5,7 +5,7 @@
 ## Computer Science Student...
 
 - 📚 I'm currently learning **German, Machine Learning, SQL, Python...** 💬
-- 🎯 2021 Goals: Learn German(A2), and improve my current Machine Learning knowledge... 💬
+- 🎯 2022 Goals: Learn German(B1), and improve my current Machine Learning knowledge... 💬
 - ⭐ Hobbys: Watch scientific channels on Youtube, Games, listen to music, photography... 💬
 - 📄 Know about my experiences: [CV](https://profile.codersrank.io/user/arretdaniel/).
 <h3 align="left">How to reach me:</h3>
