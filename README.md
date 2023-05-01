@@ -9,7 +9,7 @@
 - ⭐ Hobbys: Watch scientific channels on Youtube, Gaming, listen to music, meditation... 💬
 - 📄 Learn more about my experiences: [CV](https://profile.codersrank.io/user/arretdaniel/).
 
-##Projects and Relevant Works:
+## Projects and Relevant Works:
 
 ### Data Analysis/Science and Machine Learning Projects/Workse
 - [Google Data Analytics Professional Certificate](https://github.com/ARRETdaniel/Google-Data-Analytics-Professional-Certificate) In this Professional Certificate I worked with the whole Data Analysis' process using Technologies as: Python, R Programming, Tableau, Sheets, SQL, LaTeX. Moreover, I practiced Presentation, English language and more. 
