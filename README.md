@@ -4,7 +4,7 @@
 
 ## Computer Science Student...
 
-- 📚 I'm currently learning about **German, French, Machine Learning, First Aid...** 💬
+- 📚 I'm currently learning about **German, French, Machine Learning...** 💬
 - 🎯 2023 Goals: Learn German(B2), French(A2), and improve my current Machine Learning knowledge... 💬
 - ⭐ Hobbys: Watch scientific channels on Youtube, Gaming, listen to music, meditation... 💬
 - 📄 Learn more about my experiences: [CV](https://profile.codersrank.io/user/arretdaniel/).
