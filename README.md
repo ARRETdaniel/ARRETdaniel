@@ -2,8 +2,6 @@
 
 <h1 >Olá, Hello, Hallo, Salut! ✌️🌻</h1>
 
-## Computer Science Student...
-
 - 📚 I'm currently learning about **German, French, Machine Learning...** 💬
 - 🎯 2023 Goals: Learn German(B2), French(A2), and improve my current Machine Learning knowledge... 💬
 - ⭐ Hobbys: Watch scientific channels on Youtube, Gaming, listen to music, meditation... 💬
