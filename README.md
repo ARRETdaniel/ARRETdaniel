@@ -2,39 +2,38 @@
 
 <h1 >Olá, Hello, Hallo, Salut! ✌️🌻</h1>
 
-# Projects and Relevant Works:
-
-<details>
-  <summary>Data Analysis/Science and Machine Learning Projects/Workse</summary>
-<h6 align="left"> - [Google Data Analytics Professional Certificate](https://github.com/ARRETdaniel/Google-Data-Analytics-Professional-Certificate) In this Professional Certificate I worked with the whole Data Analysis' process using Technologies as: Python, R Programming, Tableau, Sheets, SQL, LaTeX. Moreover, I practiced Presentation, English language and more. 
-- [R for Data Science (2e) - 22-2E_topicos_Especiais_em_IA_II_Sistemas_Inteligentes](https://github.com/ARRETdaniel/22-2E_topicos_Especiais_em_IA_II_Sistemas_Inteligentes) In this course offered by Computer Science bachelor's degree @ UENF I worked Analyzing Data in R and developing presentations, visualization, models, and improving my communication and programming skills and more.
-- [Contextual Chatbot in PyTorch](https://github.com/ARRETdaniel/22-2_AI) Here I worked on in an already created Python Code for a Contextual Chatbot, customizing the original code to answer questions in Portuguese using my personal data. I also used technologies and libraries  as: Python, Anaconda, Numpy, Pandas, Pytorch, Natural Language Processing (Bag of Words), LaTex and more.
-- [Heuristics and Optimization](https://github.com/ARRETdaniel/22-2_topicos_Especiais_Heuristicas_e_Complexidade) This work was developed during a course offered by my university. Here I worked with well-known heuristic problems, the goals were to understand them and practice coding. Problems that I worked with: Longest Path Problem/Critical Path, Knapsack Problem, Vertex Cover Problem, Hamiltonian Cicle/Traveling Salesman Problem, Graph Coloring/Vertex Coloring and Self Organizing Map. Technologies: Python.
-- [Python for Natural Language Processing](https://github.com/ARRETdaniel/Python_for_NLP) Here I worked with the core concepts and technologies to work with NLP. Technologies and libraries used: Python, Machine Learning, NLTK, spaCy, Jupyter and more.
-- [Machine Learning](https://github.com/ARRETdaniel/machineLearning) In this online course offered on Coursera I worked with Logistic Regression, Artificial Neural Network, Machine Learning (ML) Algorithms using MATLAB and Octave.
-- [Machine Learning For Absolute Beginners](https://github.com/ARRETdaniel/BOOK_Exercise_machine-learning-absolute-beginners-introduction-2nd) Here I protected the concepts learned in the book that I read; data cleaning, data formating, data manipulation and more. </h6>
-
- </details>
-## Web Development: 
-- [Kalender](https://github.com/ARRETdaniel/22-2_paradigm_O_O) Here I developed an usable online Calendar with sqlite3 database. In this project I created the [documentation](https://github.com/ARRETdaniel/22-2_paradigm_O_O/blob/master/systemDocumentation/danielTerraGomes.pdf) related to the website using LaTeX, the website was developed using Ruby and it was running locally.
-- [Happy](https://github.com/ARRETdaniel/Happy-NextLevelWeek3) Here I developed the front and backend for a simple website that locate a shop on a city map. Programing and technologies: Typescript, CSS, HTML, React and more.
-- [Full-Stack Web Development with React Specialization](https://github.com/ARRETdaniel/Full-Stack-Web-Development-with-React-Specialization) An online course that I built a complete website using React and HTML, JavaScript, CSS and more.
-
-## Programming 
-- [Python Exercises](https://github.com/ARRETdaniel/Python_exerc-cios) Here I practiced and learned more about Python, from Hello world to functions, Error treatment, Data manipulation, OOP and more.
-- [Java OOP](https://github.com/ARRETdaniel/21-2_POO-curso_em_video) Here I practiced and learned all the concepts related to Java Object-oriented programming.
-- [Matlab - Octave - Scilab](https://github.com/ARRETdaniel/Laboratorio-Scilab) Practicing data manipulation, geometry, matrix, mathematics and more.
-- [Python](https://github.com/ARRETdaniel/Python-for-Everybody-Specialization) A Python specialization on Coursera, here I learned and practiced about Python.
-
-## Docker, Git and Linux 
-- [Docker, Git and Linux](https://github.com/ARRETdaniel/introducao_linha_de_comando) Here I worked with Docker creating imagens and more, working with Linux and publishing the collaborative work on GitHub.
-
 ## Computer Science Student...
 
 - 📚 I'm currently learning about **German, French, Machine Learning, First Aid...** 💬
 - 🎯 2023 Goals: Learn German(B2), French(A2), and improve my current Machine Learning knowledge... 💬
 - ⭐ Hobbys: Watch scientific channels on Youtube, Gaming, listen to music, meditation... 💬
 - 📄 Learn more about my experiences: [CV](https://profile.codersrank.io/user/arretdaniel/).
+
+##Projects and Relevant Works:
+
+### Data Analysis/Science and Machine Learning Projects/Workse
+<h6 align="left"> - [Google Data Analytics Professional Certificate](https://github.com/ARRETdaniel/Google-Data-Analytics-Professional-Certificate) In this Professional Certificate I worked with the whole Data Analysis' process using Technologies as: Python, R Programming, Tableau, Sheets, SQL, LaTeX. Moreover, I practiced Presentation, English language and more. 
+- [R for Data Science (2e) - 22-2E_topicos_Especiais_em_IA_II_Sistemas_Inteligentes](https://github.com/ARRETdaniel/22-2E_topicos_Especiais_em_IA_II_Sistemas_Inteligentes) In this course offered by Computer Science bachelor's degree @ UENF I worked Analyzing Data in R and developing presentations, visualization, models, and improving my communication and programming skills and more.
+- [Contextual Chatbot in PyTorch](https://github.com/ARRETdaniel/22-2_AI) Here I worked on in an already created Python Code for a Contextual Chatbot, customizing the original code to answer questions in Portuguese using my personal data. I also used technologies and libraries  as: Python, Anaconda, Numpy, Pandas, Pytorch, Natural Language Processing (Bag of Words), LaTex and more.
+- [Heuristics and Optimization](https://github.com/ARRETdaniel/22-2_topicos_Especiais_Heuristicas_e_Complexidade) This work was developed during a course offered by my university. Here I worked with well-known heuristic problems, the goals were to understand them and practice coding. Problems that I worked with: Longest Path Problem/Critical Path, Knapsack Problem, Vertex Cover Problem, Hamiltonian Cicle/Traveling Salesman Problem, Graph Coloring/Vertex Coloring and Self Organizing Map. Technologies: Python.
+- [Python for Natural Language Processing](https://github.com/ARRETdaniel/Python_for_NLP) Here I worked with the core concepts and technologies to work with NLP. Technologies and libraries used: Python, Machine Learning, NLTK, spaCy, Jupyter and more.
+- [Machine Learning](https://github.com/ARRETdaniel/machineLearning) In this online course offered on Coursera I worked with Logistic Regression, Artificial Neural Network, Machine Learning (ML) Algorithms using MATLAB and Octave.
+- [Machine Learning For Absolute Beginners](https://github.com/ARRETdaniel/BOOK_Exercise_machine-learning-absolute-beginners-introduction-2nd) Here I protected the concepts learned in the book that I read; data cleaning, data formating, data manipulation and more. 
+
+### Web Development: 
+- [Kalender](https://github.com/ARRETdaniel/22-2_paradigm_O_O) Here I developed an usable online Calendar with sqlite3 database. In this project I created the [documentation](https://github.com/ARRETdaniel/22-2_paradigm_O_O/blob/master/systemDocumentation/danielTerraGomes.pdf) related to the website using LaTeX, the website was developed using Ruby and it was running locally.
+- [Happy](https://github.com/ARRETdaniel/Happy-NextLevelWeek3) Here I developed the front and backend for a simple website that locate a shop on a city map. Programing and technologies: Typescript, CSS, HTML, React and more.
+- [Full-Stack Web Development with React Specialization](https://github.com/ARRETdaniel/Full-Stack-Web-Development-with-React-Specialization) An online course that I built a complete website using React and HTML, JavaScript, CSS and more.
+
+### Programming 
+- [Python Exercises](https://github.com/ARRETdaniel/Python_exerc-cios) Here I practiced and learned more about Python, from Hello world to functions, Error treatment, Data manipulation, OOP and more.
+- [Java OOP](https://github.com/ARRETdaniel/21-2_POO-curso_em_video) Here I practiced and learned all the concepts related to Java Object-oriented programming.
+- [Matlab - Octave - Scilab](https://github.com/ARRETdaniel/Laboratorio-Scilab) Practicing data manipulation, geometry, matrix, mathematics and more.
+- [Python](https://github.com/ARRETdaniel/Python-for-Everybody-Specialization) A Python specialization on Coursera, here I learned and practiced about Python.
+
+### Docker, Git and Linux 
+- [Docker, Git and Linux](https://github.com/ARRETdaniel/introducao_linha_de_comando) Here I worked with Docker creating imagens and more, working with Linux and publishing the collaborative work on GitHub.
+
 <!--
 <h3 align="left">How to reach me:</h3>
 
