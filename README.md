@@ -3,7 +3,7 @@
 <h1 >Olá, Hello, Hallo, Salut! ✌️🌻</h1>
 
 - 📚 I'm currently learning about **German language, Self-Driving Cars...** 💬
-- 📄 Learn more about my experiences: [CV](https://profile.codersrank.io/user/arretdaniel/).
+- 📄 Learn more about my experiences: [CV](https://www.linkedin.com/in/arretdaniel/).
 
 ## Projects and Relevant Works:
 
