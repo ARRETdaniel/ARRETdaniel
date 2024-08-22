@@ -2,9 +2,7 @@
 
 <h1 >Olá, Hello, Hallo, Salut! ✌️🌻</h1>
 
-- 📚 I'm currently learning about **German, French, Machine Learning...** 💬
-- 🎯 2023 Goals: Learn German(B1), French(A1), and improve my current Machine Learning knowledge... 💬
-- ⭐ Hobbies: Watch scientific channels on Youtube, Gaming, listen to music, meditate... 💬
+- 📚 I'm currently learning about **German language, Self-Driving Cars...** 💬
 - 📄 Learn more about my experiences: [CV](https://profile.codersrank.io/user/arretdaniel/).
 
 ## Projects and Relevant Works:
