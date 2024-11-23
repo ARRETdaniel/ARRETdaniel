@@ -5,9 +5,9 @@
 - 📚 I'm currently learning about **German language, Self-Driving Cars...** 💬
 - 📄 Learn more about my experiences: [CV](https://www.linkedin.com/in/arretdaniel/).
 
-## Projects and Relevant Works:
+## Relevant Projects and Work:
 
-### Data Analysis/Science and Machine Learning Projects/Works
+### Data Analysis/Science and Machine Learning Projects
 - [Google Data Analytics Professional Certificate](https://github.com/ARRETdaniel/Google-Data-Analytics-Professional-Certificate) In this Project, I carried out a Case Study that allowed me to work with the entire **Data Analysis** process, using Technologies to deal with datasets and to develop my **presentation** and final **report**. These technologies were **Python, R Programming, Tableau, Sheets, SQL, and LaTeX**. Moreover, I presented my **solutions** and ideas to **solve the problem** using **illustrations**, **graphs**, and good references to support my conclusions.
 - [R for Data Science (2e) - 22-2E_topicos_Especiais_em_IA_II_Sistemas_Inteligentes](https://github.com/ARRETdaniel/22-2E_topicos_Especiais_em_IA_II_Sistemas_Inteligentes) In this course, offered by my Computer Science bachelor's degree @ UENF, I worked **Analyzing Data** in **R** and developing **presentations, visualization, models**, and improving my **communication and programming skills**, and more.
 - [Contextual Chatbot in PyTorch](https://github.com/ARRETdaniel/22-2_AI) In this Project, I worked on an already-created Python Code for a Contextual Chatbot, customizing the original code to answer questions in Portuguese using personal data. I used technologies and libraries such as **Python, Anaconda, Numpy, Pandas, Pytorch**, Natural Language Processing (Bag of Words), **LaTex**, and more.
